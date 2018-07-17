@@ -1,0 +1,13 @@
+body{
+	font-family: 'Indie Flower', cursive;}
+
+.done
+{text-decoration-line: line-through;}
+
+#delete {
+	display: inline-block;
+}
+
+.close{
+	margin-left: 10px;
+}
